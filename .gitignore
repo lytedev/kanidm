@@ -42,3 +42,9 @@ scripts/oauth_proxy/envfile
 # IDEs
 .idea/
 .vscode/
+
+# direnv cache
+.direnv
+
+# generated pre-commit hooks
+.pre-commit-config.yaml
